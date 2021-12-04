@@ -1,3 +1,8 @@
+name = "EM3DANI"
+uuid = "a8faedc6-a597-4a72-a05d-1b8a5cd45b99"
+authors = ["Ronghua Peng", "Bo Han"]
+version = "0.1.0"
+
 [deps]
 DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
@@ -10,3 +15,6 @@ Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+[compat]
+julia = "1.0"
